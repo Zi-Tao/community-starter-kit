@@ -56,3 +56,37 @@ If you need help using this app, we encourage you to:
 ## Project maintainers
 
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Community starter kit
+
+Step 1: [Add a repository description](https://github.com/Zi-Tao/community-starter-kit/issues/1)
+
+Step 2: [Edit the README](https://github.com/Zi-Tao/community-starter-kit/pull/2)
+
+Step 3: [Merge the README](https://github.com/Zi-Tao/community-starter-kit/pull/2)
+
+Step 4: [Create user documentation](https://github.com/Zi-Tao/community-starter-kit/pull/3)
+
+Step 5: [Merge the user documentation](https://github.com/Zi-Tao/community-starter-kit/pull/3)
+
+Step 6: [Add an issue template](https://github.com/Zi-Tao/community-starter-kit/issues/4)
+
+Step 7: [Merge the issue template](https://github.com/Zi-Tao/community-starter-kit/pull/5)
+
+Step 8: [Add a CONTRIBUTING guide](https://github.com/Zi-Tao/community-starter-kit/pull/6)
+
+Step 9: [Add custom labels to the project](https://github.com/Zi-Tao/community-starter-kit/pull/6)
+
+Step 10: [Merge the CONTRIBUTING guide](https://github.com/Zi-Tao/community-starter-kit/pull/6)
+
+Step 11: [Add the license](https://github.com/Zi-Tao/community-starter-kit/pull/7)
+
+Step 12: [Merge the license](https://github.com/Zi-Tao/community-starter-kit/pull/7)
+
+Step 13: [Add the Code of Conduct](https://github.com/Zi-Tao/community-starter-kit/pull/8)
+
+Step 14: [Merge the Code of Conduct](https://github.com/Zi-Tao/community-starter-kit/pull/8)
+
+Step 15: [Help users find the project](https://github.com/Zi-Tao/community-starter-kit/issues/9)

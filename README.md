@@ -59,7 +59,7 @@ This project is maintained by Monalisa Octocat and friends. Use of this project 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Community starter kit
+## Community starter kit [💎](https://github.com/Zi-Tao/community-starter-kit/blob/main/community-starter-kit.pdf)
 
 Step 1: [Add a repository description](https://github.com/Zi-Tao/community-starter-kit/issues/1)
 
